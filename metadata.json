@@ -1,0 +1,5 @@
+{
+  "name": "Aktien Analyst AI",
+  "description": "A professional AI-powered financial analyst specialised for the German stock market (DAX, MDAX, etc.), providing real-time scores, technical analysis, and investment recommendations.",
+  "requestFramePermissions": []
+}
